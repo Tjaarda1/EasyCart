@@ -1,0 +1,60 @@
+<resources>
+    <string name="app_name">EasyCart</string>
+    <string name="boton_foto">boton_foto</string>
+
+
+    <string name="title_activity_main">MainActivity</string>
+
+    <string name="action_settings">Settings</string>
+    <string name="action_about">About</string>
+
+    <string name="pref_title_display_name">User name</string>
+    <string name="pref_summary">Indica tu nombre</string>
+
+
+    <string name="hello">Hello, %1$s!</string>
+    <string name="title_activity_settings">Settings</string>
+
+    <string name="your_name">Your name</string>
+    <string name="text_message">text_message</string>
+    <string name="edit_message">edit_message</string>
+    <string name="button_ok">button_ok</string>
+    <string name="_2000_coins">2000 Coins</string>
+    <string name="hacer_mi_compra">Hacer mi compra</string>
+    <string name="ver_ofertas">Ver ofertas</string>
+    <string name="mi_compra_semanal">Mi compra semanal</string>
+    <string name="nueva_compra">Nueva compra</string>
+    <string name="compartir_compra">Compartir Compra</string>
+    <string name="sugerencias_de_compra">Sugerencias de compra</string>
+    <string name="ratio_km">Ratio(Km)</string>
+    <string name="radio_km">radio(km)</string>
+
+    <string name="title_activity_second">Edit Supermarket</string>
+    <string name="no_notes">No Supermarkets Yet</string>
+    <string name="menu_insert">Add Supermarket</string>
+    <string name="menu_about">About</string>
+    <string name="menu_delete">Delete Supermarket</string>
+    <string name="menu_camera">Add items with camera</string>
+    <string name="chain">Chain</string>
+    <string name="street">Street</string>
+    <string name="postalCode">Postal Code</string>
+    <string name="city">City</string>
+    <string name="confirm">Confirm</string>
+    <string name="edit_supermarket">Edit Supermarket</string>
+    <string name="confirmButton">Confirm</string>
+    <string name="title_add_items_dialog">Add items</string>
+    <string name="main_activity_maps">main_activity_maps</string>
+    <string name="servicios_mapas">servicios_mapas</string>
+    <string name="textLocation">textLocation</string>
+    <string name="title_activity_shopping_list">ShoppingListActivity</string>
+    <!-- Strings used for fragments for navigation -->
+    <string name="first_fragment_label">First Fragment</string>
+    <string name="second_fragment_label">Second Fragment</string>
+    <string name="next">Next</string>
+    <string name="previous">Previous</string>
+
+    <string name="hello_first_fragment">Hello first fragment</string>
+    <string name="hello_second_fragment">Hello second fragment. Arg: %1$s</string>
+    <string name="done">done</string>
+
+</resources>

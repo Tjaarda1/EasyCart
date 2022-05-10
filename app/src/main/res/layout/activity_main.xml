@@ -1,0 +1,45 @@
+<?xml version="1.0" encoding="utf-8"?>
+
+
+
+<androidx.constraintlayout.widget.ConstraintLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:id="@+id/mainActivity"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    tools:context=".MainActivity">
+
+    <TextView
+        android:id="@+id/text_hello_name"
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        android:text="" />
+
+    <ImageButton
+        android:id="@+id/addMarket"
+        android:layout_width="85dp"
+        android:layout_height="77dp"
+        android:layout_marginStart="148dp"
+        android:layout_marginBottom="16dp"
+        app:layout_constraintBottom_toBottomOf="parent"
+        app:layout_constraintStart_toStartOf="parent"
+        app:srcCompat="@android:drawable/ic_menu_add"
+        tools:ignore="MissingConstraints,SpeakableTextPresentCheck" />
+
+
+    <Button
+        android:id="@+id/boton3"
+        android:layout_width="263dp"
+        android:layout_height="90dp"
+        android:layout_marginStart="56dp"
+        android:layout_marginTop="144dp"
+        android:text="@string/hacer_mi_compra"
+        app:layout_constraintStart_toStartOf="parent"
+        app:layout_constraintTop_toTopOf="parent"
+        tools:ignore="MissingConstraints,OnClick" />
+
+
+
+
+</androidx.constraintlayout.widget.ConstraintLayout>

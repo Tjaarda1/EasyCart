@@ -1,0 +1,8 @@
+<PreferenceScreen xmlns:app="http://schemas.android.com/apk/res-auto">
+    <EditTextPreference
+        app:defaultValue=""
+        app:key="name"
+        app:title="Radio"
+        app:summary="Indica el radio de busqueda"/>
+
+</PreferenceScreen>
